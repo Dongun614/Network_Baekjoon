@@ -116,3 +116,6 @@ void error_handling(char* message){
     printf("%s\n", message);
     exit(1);
 }
+
+//발전 방향
+//공백을 포함한 문자열도 되었으면 좋겠다.
